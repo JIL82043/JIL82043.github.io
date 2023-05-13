@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "JUNGINLAE BLOG"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "I.L. JUNG"
 description              : "An amazing website."
 url                      : "https://JIL82043.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "I.L. JUNG"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "D.I.Y"
+  location         : "ROK"
   email            :
   links:
     - label: "Email"
