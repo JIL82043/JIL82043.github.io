@@ -20,7 +20,7 @@ title                    : "DIY BLOG"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "I.L. JUNG"
-description              : "An amazing website."
+description              : "Storage of Python Code"
 url                      : "https://JIL82043.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "I.L. JUNG"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "YOUNGLING"
+  bio              : "Storage of Python Code"
   location         : "ROK"
   email            :
   links:
