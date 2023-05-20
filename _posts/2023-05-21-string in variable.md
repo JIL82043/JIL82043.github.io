@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Sring in Variable"
+title:  "String in Variable"
 categories: basic
 tag: [python, basic, variable, string]
 toc: true
