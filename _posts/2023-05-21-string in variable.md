@@ -1,8 +1,8 @@
 ---
 layout: single
-title:  "Basic of Variable"
+title:  "Sring in Variable"
 categories: basic
-tag: [python, basic, variable]
+tag: [python, basic, variable, string]
 toc: true
 author_profile: false
 ---
